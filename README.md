@@ -48,7 +48,7 @@ This project showcases key skills for an **IT Service Desk** role, including net
 
 Watch my step-by-step guide and troubleshooting process in the video:
 
-[![Network Troubleshooting Simulation](https://github.com/AbbasAbdulahi/Network-Config/blob/main/Network_Thumbnail_Small.png)](https://www.youtube.com/watch?v=hpNtUQhHLJ4)
+[![Network Troubleshooting Simulation](https://raw.githubusercontent.com/AbbasAbdulahi/Network-Config/main/Network_Thumbnail_Small.png)](https://www.youtube.com/watch?v=hpNtUQhHLJ4)
 
 ---
 
